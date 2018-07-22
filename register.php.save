@@ -1,0 +1,14 @@
+<html>
+<body>
+<center><h2>User Signup</h2></center>
+
+<form action="regsub.php" action="POST">
+<center><p><label>User Name: </label><input type="text" name="name" id="name"></p>
+<p><label>User Name: </label><input type="text" name="name" id="name"></p>
+<p><label>Password: </label><input type="password" name="cpass" id="cpass"></p>
+<p><label>User Name: </label><input type="text" name="name" id="name"></p>
+<p><label>Confirm Password: </label><input type="password" name="cpass" id="cpass"></p>
+</form>
+
+</body>
+</html>

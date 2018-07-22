@@ -1,0 +1,93 @@
+.alumni{
+	text-align: center;
+	text-shadow: 1px 1px 1px gray;
+	font-size: 40px;
+	color: white;
+}
+body{
+	font-size: 120%;
+/*	background: #5F9EA0;*/
+	background: #333366;
+}
+.header {
+	width:50%;
+	margin: 50px auto 0px;
+	color: rgb(255,255,255);
+	background: #5F9EA0;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius:10px 10px 0px 0px;
+	padding:20px;
+}
+form{
+	margin:0px ;
+	padding: 20px;
+	border:1px solid #B0C4EE;
+	background: #bfd0bd;
+	border-radius: 13px 13px 0px 0px;
+}
+.form-group {
+
+}
+.form-group label{
+	display: block;
+	text-align: left;
+	margin: 3px;
+}
+.form-group input {
+	height: 30px;
+	width: 350px;
+	padding: 5px 10px;
+	font-size: 16px;
+	border-radius: 5px;
+	border: 1px solid gray;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	box-shadow: 3px 3px 3px gray;
+}
+
+.form-group input:focus {
+box-shadow: 5px 5px 5px #1c3f95;
+}
+/*
+.btn {
+	padding: 10px;
+	font-size: 15px;
+	color:white;
+	width: 150px;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+	margin-top: 15px;
+}
+*/
+button {
+  margin-top: 20px;
+    padding : 5px 5px 5px;
+    margin-top : 35px;
+    background: #FFF;
+    text-transform: uppercase;
+    color: #5F9EA0;
+    border: none;
+    border-radius: 4px;
+     font-size: 18px;
+    padding: 15px;
+/*  margin: 10px auto;  */
+    display: block;
+    width: 200px;
+    text-align: center;
+    border-style: solid;
+    border-color: #5F9EA0;
+}
+button:hover {
+    background-color: #5F9EA0;
+    text-transform: uppercase;
+    color: #FFF;
+}
+
+
+.input-group {
+margin-bottom: 20px;
+margin-left: 30px;
+}
